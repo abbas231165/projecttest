@@ -15,6 +15,9 @@
         "name": "abbas ghaffari",
         "email": "abbasgh2311@gmail.com"
     }],
+    "license": [
+        "MIT"
+    ],
     "require": {
         "egulias/email-validator": "^3.1"
     }
