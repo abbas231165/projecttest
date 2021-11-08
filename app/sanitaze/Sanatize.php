@@ -4,9 +4,9 @@
 
 echo "Hello abbas";
 
-function sanitization($inputs, $fields, $default_filter = FILTER_SANITIZE_STRING, $filter, $trim)
+function sanitize($inputs, $fields, $default_filter = FILTER_SANITIZE_STRING, $filter, $trim)
 {
-    if($fields){
+    if ($fields) {
         //TODO if
     }
 }
